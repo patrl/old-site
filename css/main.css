@@ -41,3 +41,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(https://static1.squarespace.com/static/527e1ef4e4b0910bac781301/528ec9dce4b0b354375f6258/531c8bc9e4b030d9a2071865/1409163653796/URL.png?format=1000w) no-repeat;
+	}
