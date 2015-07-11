@@ -4,6 +4,8 @@ title: Program
 ---
 #Workshop program
 
+The final program is TBC.
+
 ##Confirmed speakers
 
 - <a href="https://www.phon.ucl.ac.uk/home/klaus/">Klaus Abels</a>
