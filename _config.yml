@@ -1,3 +1,4 @@
 name: Patrick D Elliott's personal website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: http://patrl.github.io
