@@ -1,2 +1,3 @@
 name: Patrick D Elliott's personal website
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
