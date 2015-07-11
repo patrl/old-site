@@ -5,6 +5,8 @@ title: Patrick D Elliott's personal website
 
 #Patrick D Elliott
 
+![This is me.]({{ site.url }}/assets/ParisPic.jpg)
+
 I'm a 2nd year PhD student in the Linguistics Department at University College London
 funded by the Arts and Humanities Research Council. My supervisors are Dr. Klaus Abels and Dr. Yasutada Sudo.
 My research interests fall broadly within formal syntax, semantics, and pragmatics.
