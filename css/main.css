@@ -100,15 +100,3 @@ tfoot { font-style: italic; }
 		box-shadow: none !important;
 		color: #000 !important;
 	}
-
-	/* Circle */
-	.circle {
-	width:125px;
-	height:125px;
-	border-radius:50%;
-	font-size:12px;
-	color:#fff;
-	line-height:125px;
-	text-align:center;
-	background:#000
-	}
