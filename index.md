@@ -14,3 +14,5 @@ I'm especially interested in how those three things interface. Previously I stud
 (BA) at University College London and Linguistics (MSc by Research) at the University of Edinburgh.
 As of September 2014, i'm a member of the LAGB Student Committee.
 I also co-run the UCL Linguistics and Philosophy reading group.
+
+<div class="circle">Hello I am A Circle </div>
