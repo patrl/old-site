@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I'm a 2nd year PhD student in the Linguistics Department at University College London funded by the Arts and Humanities Research Council. My supervisors are Dr. Klaus Abels and Dr. Yasutada Sudo. My research interests fall broadly within formal syntax, semantics, and pragmatics. I'm especially interested in how those three things interface. Previously I studied Linguistics (BA) at University College London and Linguistics (MSc by Research) at the University of Edinburgh. As of September 2014, i'm a member of the LAGB Student Committee. I also co-run the UCL Linguistics & Philosophy reading group.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I'm currently working on the following topics:
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+- Multiple questions, LF-intervention effects and weak islands.
+- Deriving the locality restrictions on Quantifier Raising (with Gary Thoms)
+- Case connectivity in clausal ellipsis (with Matt Barros, and Gary Thoms)
