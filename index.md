@@ -3,7 +3,7 @@ layout: default
 title: Patrick D Elliott's personal website
 ---
 
-#Patrick D Elliott
+#{{ page.title }}
 
 ![This is me.]({{ site.url }}/assets/ParisPic.jpg)
 

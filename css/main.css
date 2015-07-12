@@ -42,11 +42,37 @@ ul.posts li {
     list-style: none;
 }
 
-.circular {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(https://static1.squarespace.com/static/527e1ef4e4b0910bac781301/528ec9dce4b0b354375f6258/531c8bc9e4b030d9a2071865/1409163653796/URL.png?format=1000w) no-repeat;
-	}
+.circle {
+width:500px;
+height:500px;
+border-radius:50%;
+font-size:50px;
+color:#fff;
+line-height:500px;
+text-align:center;
+background:#000
+}
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF SIX  */
+.span_6_of_6 {
+	width: 100%;
