@@ -1,5 +1,5 @@
 ---
-layout: page_workshop
+layout: home_workshop
 title: Workshop
 ---
 
