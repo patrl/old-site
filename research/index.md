@@ -4,7 +4,7 @@ title: Research
 ---
 <hr>
 
-This page is still under construction; sorry about the missing links!
+This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>.
 
 ###Upcoming
 
