@@ -56,3 +56,10 @@
 
 /* Misc */
 hr { background-color: #ccc; border: 0px; color: #ccc; height: 1px; margin: 8px 0 20px 0; }
+
+div.rounded-corners {
+    height: 225px;
+    width: 225px;
+    border-radius: 50%;
+    overflow: hidden;
+}
