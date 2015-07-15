@@ -8,13 +8,13 @@ This page is still under construction; sorry about the missing links!
 
 ###Upcoming
 
-Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at *Sinn und Bedeutung 20*, Tuebingen, September 2015.
+Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
-Elliott, Patrick D. 2015. Title TBA. *Questions at the Syntax-Semantics Interface workshop*, University College London, September 2015.
+Elliott, Patrick D. 2015. Title TBA. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
 
 ###Papers
 
-Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular Which-Phrases. Accepted for publication in *Snippets*.
+Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular Which-Phrases. Accepted for publication in *Snippets*. <a href="{{ site.url }}/assets/snippet.pdf" download="snippet.pdf">(download)</a>
 
 Elliott, Patrick D. and Thoms, Gary. In preparation. 'QR out of Control'. In: *Proceedings of WCCFL 33*.
 
@@ -22,9 +22,9 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis without parallel binding: Towards a QUD approach.' In: *Proceedings of SALT 24*.
 
-Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'.
+Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. (<a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf">download</a>, <a href="http://ling.auf.net/lingbuzz/002100">LingBuzz</a>)
 
-Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*.
+Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf">download</a>, <a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
 
 ###Presentations
 
