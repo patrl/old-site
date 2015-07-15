@@ -3,7 +3,7 @@ title:       Patrick Elliott
 email:       patrick.d.elliott@gmail.com
 author:      Patrick D Elliott
 description: "My personal website, powered by Jekyll + Pixyll."
-baseurl:     "http://patrl.github.io"
+baseurl:     ""
 url:         "http://patrl.github.io"
 
 # Google analytics
