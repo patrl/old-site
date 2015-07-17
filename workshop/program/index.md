@@ -17,4 +17,4 @@ Program TBA
 - [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (University of Cambridge)
 - [Wataru Uegaki](http://web.mit.edu/wuegaki/www/ "Wataru's MIT page") (MIT)
 - [Rebecca Woods](http://york.academia.edu/RebeccaWoods "Rebecca's academia.edu page") (University of York)
-- [Norman Yeoh](https://www.york.ac.uk/language/people/academic-research/norman-yeo/ "Norman's York staff page") (University of York)
+- [Norman Yeo](https://www.york.ac.uk/language/people/academic-research/norman-yeo/ "Norman's York staff page") (University of York)
