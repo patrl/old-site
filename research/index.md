@@ -28,7 +28,7 @@ Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation i
 
 ###Presentations
 
-Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a common semantic core. <a href="http://www.eggschool.org/open-podium/">EGG summer school open podium, Brno, August 2015.
+Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a common semantic core. <a href="http://www.eggschool.org/open-podium/">EGG summer school open podium</a>, Brno, August 2015.
 
 Elliott, Patrick D. 2015b. On the ambiguity of multiple questions. UCL PhD day, June 2015.
 
