@@ -26,3 +26,10 @@ Anders Holmberg (Newcastle University)
 "The syntax of *yes-no* questions and *yes-no* answers"
 
 > **Abstract:** A *yes-no* question such as 'Is John coming?'' can be paraphrased as 'Tell me which is true: John is coming or John is not coming'. But while the question can be responded to by 'yes' or ‘no’, the paraphrase can’t be. Taking this as a starting point, I will argue that *yes-no* questions all contain a polarity variable which is assigned a value by the answer, positive or negative, 'yes' or 'no'. I will discuss in particular how to account for the syntax of negative *yes-no* questions within this theory.
+
+****
+
+Norman Yeo (University of York)  
+"Towards a new typology of *wh*-questions"
+
+> **Abstract:** While the basic premise of Cheng's clausal typing hypothesis (that clauses must be typed) is correct, the predictions that it makes cannot hold. This talk argues that a typology of *wh*-questions cannot be simply reduced to a *wh*-movement vs. *wh*-in-situ or a particle vs. no particle distinction. The talk proceeds to explore what the dimensions of variation are in articulating a more fine grained typology of *wh*-questions.
