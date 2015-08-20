@@ -14,7 +14,7 @@ Elliott, Patrick D. 2015. Title TBA. <a href="{{ site.url }}/workshop/">*Questio
 
 ###Papers
 
-Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular Which-Phrases. Accepted for publication in *Snippets*. <a href="{{ site.url }}/assets/snippet.pdf" download="snippet.pdf">(download)</a>
+Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 Elliott, Patrick D. and Thoms, Gary. In preparation. 'QR out of Control'. In: *Proceedings of WCCFL 33*.
 
