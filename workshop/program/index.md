@@ -29,6 +29,11 @@ Anders Holmberg (Newcastle University)
 
 ****
 
+Rebecca Woods (University of York / University of Huddersfield)
+"Inversion in embedded questions: new perspectives on the embeddability of illocutionary force"
+
+> **Abstract:** It is well known that certain English dialects permit inversion in embedded questions in restricted circumstances. The syntax of these embedded inverted questions (EIQs) has been examined but reference has not been made to their semantics and pragmatics. By conducting a thorough investigation of syntax and interpretation of EIQs as compared with indirect and direct speech, it is shown that they are part of a unifiable class of quasi-quotational constructions along with Germanic embedded verb second, recomplementation in Romance and embedded imperatives in a range of languages. EIQs will be shown to be particularly useful in driving forward our understanding of quasi-quotational constructions and the extent to which they can be said to encode independent illocutionary force, given the relative ease of determining the role and impact of a question in a discourse as opposed to an assertion.
+
 Norman Yeo (University of York)  
 "Towards a new typology of *wh*-questions"
 
