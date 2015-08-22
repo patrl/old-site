@@ -10,12 +10,11 @@ Program TBA
 ## Confirmed Speakers
 
 - [Klaus Abels](https://www.phon.ucl.ac.uk/home/klaus/ "Klaus's Homepage") (UCL)
-- [Jamie Douglas](http://www.languagesciences.cam.ac.uk/directory/jamie-douglas) (University of Cambridge)
+- [Jamie Douglas](http://www.languagesciences.cam.ac.uk/directory/jamie-douglas) (University of Cambridge) and [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (Anglia Ruskin University)
 - [Patrick Elliott](https://patrl.github.io "Patrick's homepage") (UCL)
 - [Anders Holmberg](http://www.ncl.ac.uk/elll/staff/profile/anders.holmberg "Anders's Newcastle staff page") (Newcastle University)  <a href="#holmbergabs">**(Abstract)**</a>
 - [Jiri Kaspar](http://ucl.academia.edu/JiriKaspar "Jiri's academia.edu page") (UCL)
 - Ezekiel Panitz (UCL)
-- [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (Anglia Ruskin University)
 - [Wataru Uegaki](http://web.mit.edu/wuegaki/www/ "Wataru's MIT page") (Keio / Institute Jean-Nicod / JSPS)  <a href="#uegakiabs">**(Abstract)**</a>
 - [Rebecca Woods](http://york.academia.edu/RebeccaWoods "Rebecca's academia.edu page") (University of York / University of Huddersfield) <a href="#woodsabs">**(Abstract)**</a>
 - [Norman Yeo](https://www.york.ac.uk/language/people/academic-research/norman-yeo/ "Norman's York staff page") (University of York) <a href="#yeoabs">**(Abstract)**</a>
