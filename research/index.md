@@ -18,7 +18,7 @@ Elliott, Patrick D. 2015. \textit{Title TBA}. <a href="{{ site.url }}/workshop/"
 
 Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
-Elliott, Patrick D. and Thoms, Gary. In preparation. 'QR out of Control'. In: *Proceedings of WCCFL 33*.
+Elliott, Patrick D. and Thoms, Gary. To appear. 'QR out of Control'. In: *Proceedings of WCCFL 33*. (<a href="{{ site.url }}/assets/wccfl-draft.pdf" download="wccfl-draft.pdf">draft</a>)
 
 Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination of DPs and CPs.' Ms.
 
