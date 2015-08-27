@@ -2,13 +2,12 @@
 layout: page
 title: Research
 ---
-<hr>
-
-This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>.
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
 ###Upcoming
 
-Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. NELS 46, Concordia University, October 2015.
+Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
 Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
@@ -16,17 +15,17 @@ Elliott, Patrick D. 2015. *Title TBA*. <a href="{{ site.url }}/workshop/">*Quest
 
 ###Papers
 
-Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
+<a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
-Elliott, Patrick D. and Thoms, Gary. To appear. 'QR out of Control'. In: *Proceedings of WCCFL 33*. (<a href="{{ site.url }}/assets/wccfl-draft.pdf" download="wccfl-draft.pdf">draft</a>)
+<a href="{{ site.url }}/assets/wccfl-draft.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Thoms, Gary. To appear. 'QR out of Control'. In: *Proceedings of WCCFL 33*
 
 Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination of DPs and CPs.' Ms.
 
 Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis without parallel binding: Towards a QUD approach.' In: *Proceedings of SALT 24*.
 
-Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. (<a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf">download</a>, <a href="http://ling.auf.net/lingbuzz/002100">LingBuzz</a>)
+<a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'
 
-Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf">download</a>, <a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
+<a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
 
 ###Presentations
 
