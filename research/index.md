@@ -2,7 +2,6 @@
 layout: page
 title: Research
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
 ###Upcoming
