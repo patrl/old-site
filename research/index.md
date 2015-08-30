@@ -6,11 +6,11 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ###Upcoming
 
-Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
+Elliott, Patrick D. 2015. *Title TBA*. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
 
 Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
-Elliott, Patrick D. 2015. *Title TBA*. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
+Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
 ###Papers
 
