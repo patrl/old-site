@@ -32,9 +32,9 @@ Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a commo
 
 Elliott, Patrick D. 2015b. On the ambiguity of multiple questions. UCL PhD day, June 2015.
 
-Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. 2015. Discourse even vs. attitude even. Poster at *SALT 25*, Stanford University, May 2015.
+<a href="{{ site.url }}/assets/SALTPoster-even.pdf" download="SALTPoster-even.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. 2015. Discourse even vs. attitude even. Poster at *SALT 25*, Stanford University, May 2015.
 
-Elliott, Patrick D. 2015a. Sorting Out Multiple Questions. *London Semantics Day*, QMUL, May 2015.
+<a href="{{ site.url }}/assets/SortingOutMultipleQuestions.pdf" download="SortingOutMultipleQuestions.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2015a. Sorting Out Multiple Questions. *London Semantics Day*, QMUL, May 2015.
 
 Elliott, Patrick D. and Murphy, Andrew. 2015. 'Optimizing the Ellipsis Site.' *Grasping Ellipsis: its syntax, semantics, acquisition and processing*, University of Campinas, Brazil, May 2015.
 
