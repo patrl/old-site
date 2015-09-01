@@ -5,7 +5,7 @@ title: Speakers/Program
 
 ## Speakers
 
-- [Klaus Abels](https://www.phon.ucl.ac.uk/home/klaus/ "Klaus's Homepage") (UCL)
+- [Klaus Abels](https://www.phon.ucl.ac.uk/home/klaus/ "Klaus's Homepage") (UCL) <a href="#abelsabs">**(Abstract)**</a>
 - [Jamie Douglas](http://www.languagesciences.cam.ac.uk/directory/jamie-douglas) (University of Cambridge) and [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (Anglia Ruskin University) <a href="#douglassheehanabs">**(Abstract)**</a>
 - [Patrick Elliott](https://patrl.github.io "Patrick's homepage") (UCL)
 - [Anders Holmberg](http://www.ncl.ac.uk/elll/staff/profile/anders.holmberg "Anders's Newcastle staff page") (Newcastle University)  <a href="#holmbergabs">**(Abstract)**</a>
@@ -44,8 +44,10 @@ title: Speakers/Program
 
 **12:30 - 14:00** -- *Lunch*
 
-**14:00 - 14:40** -- Klaus Abels (University College London)<br>
-*Title TBA*
+**14:00 - 14:40** -- Klaus Abels (University College London)<a name="abelsabs"></a><br>
+"On the locality of multiple questions and multiple sluicing"
+
+> <small>**Abstract:** In this talk I will situate the problem of the locality of multiple sluicing within the broader problem of locality of wh-movement generally and, specifically, the interaction of locality and ellipsis. I will argue that reducing the locality of multiple sluicing to the locality of extraposition (Lasnik) is not a sufficiently general solution to the problem of the clause-boundedness of multiple sluicing. Dayal had suggested that there are two paths to the pair-list interpration of a given question: clause-bounded movement and interpretation via a second, less constrained mechanism. This approach is broadly supported by the sluicing facts if we take multiple sluicing to be a way of overtly realizing the clause-bounded mechanism deriving pair list interpretations.</small>
 
 **14:40 - 15:20** -- Wataru Uegaki (Keio / Institute Jean-Nicod / JSPS)<a name="uegakiabs"></a><br>
 "On the projection of the uniqueness presupposition of <i>wh</i>-complements"
