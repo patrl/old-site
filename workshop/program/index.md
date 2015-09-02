@@ -3,6 +3,8 @@ layout: page_workshop
 title: Speakers/Program
 ---
 
+<hr>
+
 ## Speakers
 
 - [Klaus Abels](https://www.phon.ucl.ac.uk/home/klaus/ "Klaus's Homepage") (UCL) <a href="#abelsabs">**(Abstract)**</a>
