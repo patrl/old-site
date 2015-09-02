@@ -7,7 +7,7 @@ title: Speakers/Program
 
 - [Klaus Abels](https://www.phon.ucl.ac.uk/home/klaus/ "Klaus's Homepage") (UCL) <a href="#abelsabs">**(Abstract)**</a>
 - [Jamie Douglas](http://www.languagesciences.cam.ac.uk/directory/jamie-douglas) (University of Cambridge) and [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (Anglia Ruskin University) <a href="#douglassheehanabs">**(Abstract)**</a>
-- [Patrick Elliott](https://patrl.github.io "Patrick's homepage") (UCL)
+- [Patrick Elliott](https://patrl.github.io "Patrick's homepage") (UCL) <a href="#elliottabs">**(Abstract)**</a>
 - [Anders Holmberg](http://www.ncl.ac.uk/elll/staff/profile/anders.holmberg "Anders's Newcastle staff page") (Newcastle University)  <a href="#holmbergabs">**(Abstract)**</a>
 - [Jiri Kaspar](http://ucl.academia.edu/JiriKaspar "Jiri's academia.edu page") (UCL)
 - Ezekiel Panitz (UCL)
@@ -56,8 +56,12 @@ title: Speakers/Program
 
 **15:20 - 15:40** -- *Coffee/Tea*
 
-**15:40 - 16:20** -- Patrick Elliott (University College London)<br>
-*Title TBA*
+**15:40 - 16:20** -- Patrick Elliott (University College London)<a name="elliottabs"></a><br>
+"Nested *wh-*questions and the locality of scope-taking"
+
+> <small>**Abstract:** In this talk, I argue that nested *wh-*questions broadly support Dayal's (2002) claim that scope-taking is heterogenous for *wh-in-situ*. I observe a surprising asymmetry between Hindi and English nested *wh-*questions: namely, in Hindi a pair-list interpretation is available, whereas in English it is not. I account for this by out-lining a system with two scope-taking mechanisms: (i) covert-movement (with pied-piping), and (ii) existentially-bound choice-functions; for a pair-list interpretation, both *wh*s must take scope via *movement*. The cross-linguistic variation thus can be reduced to the independently-motivated  ability of the inner *wh-*phrase to scramble out of the DP in Hindi.
+</small>
+
 
 **16:20 - 17:00** -- Jamie Douglas (University of Cambridge) and Michelle Sheehan (Anglia Ruskin University)<a name="douglassheehanabs"></a><br>
 "Extraction restrictions and asymmetries: towards a unified account"
