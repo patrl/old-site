@@ -11,7 +11,7 @@ title: Speakers/Program
 - [Jamie Douglas](http://www.languagesciences.cam.ac.uk/directory/jamie-douglas) (University of Cambridge) and [Michelle Sheehan](https://sites.google.com/site/michellesheehan54/home "Michelle's homepage") (Anglia Ruskin University) <a href="#douglassheehanabs">**(Abstract)**</a>
 - [Patrick Elliott](https://patrl.github.io "Patrick's homepage") (UCL) <a href="#elliottabs">**(Abstract)**</a>
 - [Anders Holmberg](http://www.ncl.ac.uk/elll/staff/profile/anders.holmberg "Anders's Newcastle staff page") (Newcastle University)  <a href="#holmbergabs">**(Abstract)**</a>
-- [Jiri Kaspar](http://ucl.academia.edu/JiriKaspar "Jiri's academia.edu page") (UCL)
+- [Jiri Kaspar](http://ucl.academia.edu/JiriKaspar "Jiri's academia.edu page") (UCL) <a href="#kasparabs">**(Abstract)**</a>
 - Ezekiel Panitz (UCL)
 - [Wataru Uegaki](http://web.mit.edu/wuegaki/www/ "Wataru's MIT page") (Keio / Institute Jean-Nicod / JSPS)  <a href="#uegakiabs">**(Abstract)**</a>
 - [Rebecca Woods](http://york.academia.edu/RebeccaWoods "Rebecca's academia.edu page") (University of York / University of Huddersfield) <a href="#woodsabs">**(Abstract)**</a>
@@ -31,8 +31,10 @@ title: Speakers/Program
 
 > <small>**Abstract:** It is well known that certain English dialects permit inversion in embedded questions in restricted circumstances. The syntax of these embedded inverted questions (EIQs) has been examined but reference has not been made to their semantics and pragmatics. By conducting a thorough investigation of syntax and interpretation of EIQs as compared with indirect and direct speech, it is shown that they are part of a unifiable class of quasi-quotational constructions along with Germanic embedded verb second, recomplementation in Romance and embedded imperatives in a range of languages. EIQs will be shown to be particularly useful in driving forward our understanding of quasi-quotational constructions and the extent to which they can be said to encode independent illocutionary force, given the relative ease of determining the role and impact of a question in a discourse as opposed to an assertion.</small>
 
-**10:10 - 10:50** -- Jiri Kaspar (University College London)<br>
-*Title TBA*
+**10:10 - 10:50** -- Jiri Kaspar (University College London)<a name="kasparabs"></a><br>
+"Question interpretation: an experimental study"
+
+> <small>**Abstract:** The categorial distinction between given and new is frequently made in the literature on information structure. While the notions of givenness and/or newness have been extensively debated (Schwarzschild 1999; Kučerová 2007; Šimík and Wierzba 2015), their relation to the more general notion of information status has received less attention (Prince 1981, 1992; Nissim et al. 2004; Götze et al. 2007; Riester 2008). The present text reports the results of two experimental studies on the syntax-semantics interface, which show that not all information can be classified as exclusively given or new. The results are compatible with a classification system that makes either sub-categorial distinctions (i.e., [IS given – new (implied – brand new)]) or further categorial distinctions (i.e., [IS given – implied – new]. The main claim is that the representation of discourse needs to be more granular than usually assumed.</small>
 
 **10:50 - 11:10** -- *Coffee/Tea*
 
