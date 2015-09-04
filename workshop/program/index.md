@@ -23,6 +23,8 @@ title: Speakers/Program
 
 ## Program
 
+N.b. All talks will take place in **Room B02**. Welcome and breaks will take place in **Room 116**.
+
 **9:00 - 9:30** -- Welcome, *Coffee/Tea*
 
 **9:30 - 10:10** -- Rebecca Woods (University of York / University of Huddersfield)<a name="woodsabs"></a><br>
