@@ -75,4 +75,4 @@ N.b. All talks will take place in **Room B02**. Welcome and breaks will take pla
 
 > <small>**Abstract:** A yes-no question such as &ldquo;Is John coming?&rdquo; can be paraphrased as &lsquo;Tell me which is true: John is coming or John is not coming&rsquo;. But while the question can be responded to by &lsquo;yes&rsquo; or &lsquo;no&rsquo;, the paraphrase can’t be. Taking this as a starting point, I will argue that yes-no questions all contain a polarity variable which is assigned a value by the answer, positive or negative, &lsquo;yes&rsquo; or &lsquo;no&rsquo;. I will discuss in particular how to account for the syntax of negative yes-no questions within this theory.</small>
 
-**17:00 - late** -- *Drinks/Dinner*, Location TBC
+**17:00 - late** -- Drinks at <a href="http://union-tavern.co.uk/">the Union Tavern</a>, followed by dinner at <a href="http://www.rasarestaurants.com/rasa_maricham.php">Rasa Maricham</a>. See the <a href="{{ site.url }}/workshop/practicalinfo">practical information</a> page for detailed directions.
