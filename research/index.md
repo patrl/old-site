@@ -6,8 +6,6 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ###Upcoming
 
-Elliott, Patrick D. 2015. Nested *wh-*questions and the locality of scope-taking. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
-
 Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
 Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
@@ -27,6 +25,8 @@ Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis w
 <a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
 
 ###Presentations
+
+Elliott, Patrick D. 2015. Nested *wh-*questions and the locality of scope-taking. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
 
 Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a common semantic core. <a href="http://www.eggschool.org/open-podium/">EGG summer school open podium</a>, Brno, August 2015.
 
