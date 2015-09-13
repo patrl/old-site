@@ -28,7 +28,7 @@ Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis w
 
 <a href="{{ site.url }}/assets/sub-poster.pdf" download="sub-poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
-Elliott, Patrick D. 2015. Nested *wh-*questions and the locality of scope-taking. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
+<a href="{{ site.url }}/assets/workshop-slides.pdf" download="workshop-slides.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2015. Nested *wh-*questions and the locality of scope-taking. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
 
 Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a common semantic core. <a href="http://www.eggschool.org/open-podium/">EGG summer school open podium</a>, Brno, August 2015.
 
