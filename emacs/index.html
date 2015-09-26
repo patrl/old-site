@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Patrick Elliott's Emacs 24 Configuration</title>
-<!-- 2015-09-26 Sat 01:26 -->
+<!-- 2015-09-26 Sat 02:13 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Patrick Elliott" />
@@ -142,100 +142,427 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Configuration</a></li>
+<li><a href="#sec-1">1. Resources</a></li>
+<li><a href="#sec-2">2. Configuration (general)</a>
+<ul>
+<li><a href="#sec-2-1">2.1. User details</a></li>
+<li><a href="#sec-2-2">2.2. Package management</a></li>
+<li><a href="#sec-2-3">2.3. Start-up options</a>
+<ul>
+<li><a href="#sec-2-3-1">2.3.1. Splash screen</a></li>
+<li><a href="#sec-2-3-2">2.3.2. Backup files</a></li>
+<li><a href="#sec-2-3-3">2.3.3. Yes-and-no</a></li>
+<li><a href="#sec-2-3-4">2.3.4. Keybindings</a></li>
+<li><a href="#sec-2-3-5">2.3.5. Tool bar</a></li>
+<li><a href="#sec-2-3-6">2.3.6. Display settings</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-4">2.4. Org</a>
+<ul>
+<li><a href="#sec-2-4-1">2.4.1. Settings</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-5">2.5. Writing</a>
+<ul>
+<li><a href="#sec-2-5-1">2.5.1. Flyspell</a></li>
+<li><a href="#sec-2-5-2">2.5.2. Olivetti</a></li>
+<li><a href="#sec-2-5-3">2.5.3. <span class="todo TODO">TODO</span> <code>writeroom-mode</code></a></li>
+</ul>
+</li>
+<li><a href="#sec-2-6">2.6. Deft</a>
+<ul>
+<li><a href="#sec-2-6-1">2.6.1. Settings</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-7">2.7. LaTeX</a>
+<ul>
+<li><a href="#sec-2-7-1">2.7.1. Referencing</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-8">2.8. Markdown</a>
+<ul>
+<li><a href="#sec-2-8-1">2.8.1. Settings</a></li>
+<li><a href="#sec-2-8-2">2.8.2. Pandoc</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-9">2.9. Utilities</a>
+<ul>
+<li><a href="#sec-2-9-1">2.9.1. Smex</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Configuration (system specific)</a>
+<ul>
+<li><a href="#sec-3-1">3.1. Directories</a>
+<ul>
+<li><a href="#sec-3-1-1">3.1.1. Deft</a></li>
+<li><a href="#sec-3-1-2">3.1.2. Pandoc</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
 
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="section-number-2">1</span> Configuration</h2>
+<h2 id="sec-1"><span class="section-number-2">1</span> Resources</h2>
 <div class="outline-text-2" id="text-1">
+<p>
+Much of this was lifted from <a href="http://aaronbedra.com/emacs.d/">Aaron Bedra's Emacs 24 Configuration</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Configuration (general)</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> User details</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+This ensures that emacs knows my full name and email address.
+</p>
+
 <div class="org-src-container">
 
-<pre class="src src-emacs-lisp">;; Sets user information.
-(setq user-full-name "Patrick Elliott")
+<pre class="src src-emacs-lisp">(setq user-full-name "Patrick Elliott")
 (setq user-mail-address "patrick.d.elliott@gmail.com")
+</pre>
+</div>
+</div>
+</div>
 
-;; Adds melpa as a source for additional packages.
-(load "package")
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Package management</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Adds the <a href="https://melpa.org">melpa</a> repository.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(load "package")
 (package-initialize)
 (add-to-list 'package-archives
 	     '("melpa" . "https://melpa.milkbox.net/packages/") t)
 
 (setq package-archive-enable-alist '(("melpa" deft magit)))
+</pre>
+</div>
+</div>
+</div>
 
-;; Gets rid of the splash screen and sets deft as the initial major mode.
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Start-up options</h3>
+<div class="outline-text-3" id="text-2-3">
+</div><div id="outline-container-sec-2-3-1" class="outline-4">
+<h4 id="sec-2-3-1"><span class="section-number-4">2.3.1</span> Splash screen</h4>
+<div class="outline-text-4" id="text-2-3-1">
+<p>
+This gets rid of the initial splash screen, as well as the message in the scratch buffer. Since I spend most of my time using emacs to take notes in <code>deft-mode</code>, I set this as the initial major mode.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">;; Gets rid of the splash screen and sets deft as the initial major mode.
 (setq inhibit-splash-screen t initial-scratch-message nil
       initial-major-mode 'deft)
+</pre>
+</div>
+</div>
+</div>
 
-;; Stops emacs from creating lots of junk.
-(setq make-backup-files nil)
+<div id="outline-container-sec-2-3-2" class="outline-4">
+<h4 id="sec-2-3-2"><span class="section-number-4">2.3.2</span> Backup files</h4>
+<div class="outline-text-4" id="text-2-3-2">
+<p>
+Stops emacs from creating backup files which have a habit of cluttering up directories.
+</p>
 
-;; Saves time by allowing y/n to replace yes/no.
-(defalias 'yes-or-no-p 'y-or-n-p)
+<div class="org-src-container">
 
-;; Gets rid of the tool bar.
-(tool-bar-mode -1)
+<pre class="src src-emacs-lisp">(setq make-backup-files nil)
+</pre>
+</div>
+</div>
+</div>
 
-; Uses the solarized-light theme
-(load-theme 'solarized-light t)
+<div id="outline-container-sec-2-3-3" class="outline-4">
+<h4 id="sec-2-3-3"><span class="section-number-4">2.3.3</span> Yes-and-no</h4>
+<div class="outline-text-4" id="text-2-3-3">
+<p>
+Allow single character responses to yes/no questions.
+</p>
 
-(setq org-log-done t
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(defalias 'yes-or-no-p 'y-or-n-p)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3-4" class="outline-4">
+<h4 id="sec-2-3-4"><span class="section-number-4">2.3.4</span> Keybindings</h4>
+<div class="outline-text-4" id="text-2-3-4">
+<p>
+Miscellaneous keybindings.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(define-key global-map "\C-cl" 'org-store-link)
+(define-key global-map "\C-ca" 'org-agenda)
+(global-set-key (kbd "&lt;f9&gt;") 'deft)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3-5" class="outline-4">
+<h4 id="sec-2-3-5"><span class="section-number-4">2.3.5</span> Tool bar</h4>
+<div class="outline-text-4" id="text-2-3-5">
+<p>
+Gets rid of the tool bar.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(tool-bar-mode -1)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3-6" class="outline-4">
+<h4 id="sec-2-3-6"><span class="section-number-4">2.3.6</span> Display settings</h4>
+<div class="outline-text-4" id="text-2-3-6">
+<p>
+Use the <code>solarized-light</code> theme.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(load-theme 'solarized-light t)
+</pre>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Org</h3>
+<div class="outline-text-3" id="text-2-4">
+</div><div id="outline-container-sec-2-4-1" class="outline-4">
+<h4 id="sec-2-4-1"><span class="section-number-4">2.4.1</span> Settings</h4>
+<div class="outline-text-4" id="text-2-4-1">
+<p>
+Put a timestamp on completed tasks. Highlight the <code>INPROGRESS</code> keyword.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq org-log-done t
       org-todo-keywords '((sequence "TODO" "INPROGRESS" "DONE"))
       org-todo-keyword-faces '(("INPROGRESS" . (:foreground "blue" :weight bold))))
+</pre>
+</div>
+</div>
+</div>
+</div>
 
-(define-key global-map "\C-cl" 'org-store-link)
-(define-key global-map "\C-ca" 'org-agenda)
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> Writing</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+I've added some utilities for writing prose in emacs.
+</p>
+</div>
 
-;;enable flyspell spellchecking in text-mode (and derived modes)
-(add-hook 'text-mode-hook 'flyspell-mode)
+<div id="outline-container-sec-2-5-1" class="outline-4">
+<h4 id="sec-2-5-1"><span class="section-number-4">2.5.1</span> Flyspell</h4>
+<div class="outline-text-4" id="text-2-5-1">
+<p>
+Enable flyspell spellchecking in text-mode (and derived modes).
+</p>
 
-;;enable olivetti in text-mode (and derived modes) to provide margins.
-(add-hook 'text-mode-hook 'olivetti-mode)
+<div class="org-src-container">
 
-;; determines where deft notes get saved.
-(setq deft-directory "~/Dropbox/deft")
-(setq deft-use-filename-as-title t)
+<pre class="src src-emacs-lisp">(add-hook 'text-mode-hook 'flyspell-mode)
+</pre>
+</div>
+</div>
+</div>
 
-; Sets org-mode as the default mode for deft.
+<div id="outline-container-sec-2-5-2" class="outline-4">
+<h4 id="sec-2-5-2"><span class="section-number-4">2.5.2</span> Olivetti</h4>
+<div class="outline-text-4" id="text-2-5-2">
+<p>
+Enable olivetti in text-mode (and derived modes) to provide margins.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-hook 'text-mode-hook 'olivetti-mode)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-5-3" class="outline-4">
+<h4 id="sec-2-5-3"><span class="section-number-4">2.5.3</span> <span class="todo TODO">TODO</span> <code>writeroom-mode</code></h4>
+<div class="outline-text-4" id="text-2-5-3">
+<p>
+Check out writeroom mode as an alternative to <code>olivetti-mode</code>.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> Deft</h3>
+<div class="outline-text-3" id="text-2-6">
+</div><div id="outline-container-sec-2-6-1" class="outline-4">
+<h4 id="sec-2-6-1"><span class="section-number-4">2.6.1</span> Settings</h4>
+<div class="outline-text-4" id="text-2-6-1">
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">; Sets org-mode as the default mode for deft.
 (setq deft-extension "org")
 (setq deft-text-mode 'org-mode)
 
-; Keyboard shortcut to start deft mode
-(global-set-key (kbd "&lt;f9&gt;") 'deft)
+(setq deft-use-filename-as-title t)
+</pre>
+</div>
+</div>
+</div>
+</div>
 
-;;enables history and searching on top of M-x using smex.
-(setq smex-save-file (expand-file-name ".smex-items" user-emacs-directory))
-(smex-initialize)
-(global-set-key (kbd "M-x") 'smex)
-(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> LaTeX</h3>
+<div class="outline-text-3" id="text-2-7">
+</div><div id="outline-container-sec-2-7-1" class="outline-4">
+<h4 id="sec-2-7-1"><span class="section-number-4">2.7.1</span> Referencing</h4>
+<div class="outline-text-4" id="text-2-7-1">
+<p>
+Enable reftex in latex- and LaTeX-modes.
+</p>
 
-;;enable reftex in latex- and LaTeX-modes
-(require 'reftex)
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(require 'reftex)
 (add-hook 'LaTeX-mode-hook 'turn-on-reftex)
 (add-hook 'latex-mode-hook 'turn-on-reftex)
+</pre>
+</div>
+</div>
+</div>
+</div>
 
-;;automatically load markdown-mode for .md files
-(add-to-list 'auto-mode-alist '("\\.md$"
+<div id="outline-container-sec-2-8" class="outline-3">
+<h3 id="sec-2-8"><span class="section-number-3">2.8</span> Markdown</h3>
+<div class="outline-text-3" id="text-2-8">
+</div><div id="outline-container-sec-2-8-1" class="outline-4">
+<h4 id="sec-2-8-1"><span class="section-number-4">2.8.1</span> Settings</h4>
+<div class="outline-text-4" id="text-2-8-1">
+<p>
+Automatically load markdown-mode for .md files
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-to-list 'auto-mode-alist '("\\.md$"
   . markdown-mode)) (add-to-list 'auto-mode-alist '("\\.mdown$"
 						    . markdown-mode))
+</pre>
+</div>
+</div>
+</div>
 
-;; Since I installed pandoc via cabal, I need to explicit declare where to find the haskell script.
-(setq pandoc-binary "~/.cabal/bin/pandoc")
+<div id="outline-container-sec-2-8-2" class="outline-4">
+<h4 id="sec-2-8-2"><span class="section-number-4">2.8.2</span> Pandoc</h4>
+<div class="outline-text-4" id="text-2-8-2">
+<p>
+Loads <code>pandoc-mode</code> when in <code>markdown-mode</code> automatically, and use <code>pandoc</code> as default compiler in <code>markdown-mode</code>.
+</p>
 
-;; loads pandoc when in markdown mode automatically.
-(add-hook 'markdown-mode-hook 'pandoc-mode)
+<div class="org-src-container">
 
-;;use pandoc as default compiler in markdown mode.
+<pre class="src src-emacs-lisp">(add-hook 'markdown-mode-hook 'pandoc-mode)
 (setq markdown-command "pandoc --smart - markdown -t html")
 </pre>
 </div>
 </div>
 </div>
 </div>
+
+<div id="outline-container-sec-2-9" class="outline-3">
+<h3 id="sec-2-9"><span class="section-number-3">2.9</span> Utilities</h3>
+<div class="outline-text-3" id="text-2-9">
+</div><div id="outline-container-sec-2-9-1" class="outline-4">
+<h4 id="sec-2-9-1"><span class="section-number-4">2.9.1</span> Smex</h4>
+<div class="outline-text-4" id="text-2-9-1">
+<p>
+Enables history and searching on top of <code>M-x</code> using <code>smex</code>.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq smex-save-file (expand-file-name ".smex-items" user-emacs-directory))
+(smex-initialize)
+(global-set-key (kbd "M-x") 'smex)
+(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Configuration (system specific)</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> Directories</h3>
+<div class="outline-text-3" id="text-3-1">
+</div><div id="outline-container-sec-3-1-1" class="outline-4">
+<h4 id="sec-3-1-1"><span class="section-number-4">3.1.1</span> Deft</h4>
+<div class="outline-text-4" id="text-3-1-1">
+<p>
+Determines where <code>deft</code> notes get saved.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq deft-directory "~/Dropbox/deft")
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-3-1-2" class="outline-4">
+<h4 id="sec-3-1-2"><span class="section-number-4">3.1.2</span> Pandoc</h4>
+<div class="outline-text-4" id="text-3-1-2">
+<p>
+Since I installed <code>pandoc</code> via <code>cabal</code>, I need to explicit declare where to find the haskell script.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq pandoc-binary "~/.cabal/bin/pandoc")
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div id="postamble" class="status">
 <p class="author">Author: Patrick Elliott</p>
-<p class="date">Created: 2015-09-26 Sat 01:26</p>
+<p class="date">Created: 2015-09-26 Sat 02:13</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
