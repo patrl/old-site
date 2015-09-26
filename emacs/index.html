@@ -1,0 +1,574 @@
+---
+layout: page
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Patrick Elliott's Emacs 24 Configuration</title>
+<!-- 2015-09-26 Sat 16:26 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Patrick Elliott" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Patrick Elliott's Emacs 24 Configuration</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Resources</a></li>
+<li><a href="#sec-2">2. Configuration (general)</a>
+<ul>
+<li><a href="#sec-2-1">2.1. User details</a></li>
+<li><a href="#sec-2-2">2.2. Package management</a>
+<ul>
+<li><a href="#sec-2-2-1">2.2.1. Splash screen</a></li>
+<li><a href="#sec-2-2-2">2.2.2. Backup files</a></li>
+<li><a href="#sec-2-2-3">2.2.3. Yes-and-no</a></li>
+<li><a href="#sec-2-2-4">2.2.4. Keybindings</a></li>
+<li><a href="#sec-2-2-5">2.2.5. Tool bar</a></li>
+<li><a href="#sec-2-2-6">2.2.6. Display settings</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-3">2.3. Org</a>
+<ul>
+<li><a href="#sec-2-3-1">2.3.1. Settings</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-4">2.4. Writing</a>
+<ul>
+<li><a href="#sec-2-4-1">2.4.1. Flyspell</a></li>
+<li><a href="#sec-2-4-2">2.4.2. Olivetti</a></li>
+<li><a href="#sec-2-4-3">2.4.3. <span class="todo TODO">TODO</span> <code>writeroom-mode</code></a></li>
+</ul>
+</li>
+<li><a href="#sec-2-5">2.5. Deft</a></li>
+<li><a href="#sec-2-6">2.6. LaTeX</a>
+<ul>
+<li><a href="#sec-2-6-1">2.6.1. Referencing</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-7">2.7. Markdown</a>
+<ul>
+<li><a href="#sec-2-7-1">2.7.1. Settings</a></li>
+<li><a href="#sec-2-7-2">2.7.2. Pandoc</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-8">2.8. Utilities</a>
+<ul>
+<li><a href="#sec-2-8-1">2.8.1. Smex</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Configuration (system specific)</a>
+<ul>
+<li><a href="#sec-3-1">3.1. Directories</a>
+<ul>
+<li><a href="#sec-3-1-1">3.1.1. Deft</a></li>
+<li><a href="#sec-3-1-2">3.1.2. Pandoc</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Resources</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Much of this was lifted from <a href="http://aaronbedra.com/emacs.d/">Aaron Bedra's Emacs 24 Configuration</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Configuration (general)</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> User details</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+This ensures that emacs knows my full name and email address.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq user-full-name "Patrick Elliott")
+(setq user-mail-address "patrick.d.elliott@gmail.com")
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Package management</h3>
+<div class="outline-text-3" id="text-2-2">
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">;; Package Manager
+;; See ~Cask~ file for its configuration
+;; https://github.com/cask/cask
+(require 'cask "C:/Users/patri/.cask/cask.el")
+(cask-initialize)
+
+;; Keeps ~Cask~ file in sync with the packages
+;; that you install/uninstall via ~M-x list-packages~
+;; https://github.com/rdallasgray/pallet
+(require 'pallet)
+(pallet-mode t)
+</pre>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-1" class="outline-4">
+<h4 id="sec-2-2-1"><span class="section-number-4">2.2.1</span> Splash screen</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<p>
+This gets rid of the initial splash screen, as well as the message in the scratch buffer. Since I spend most of my time using emacs to take notes in <code>deft-mode</code>, I set this as the initial major mode.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">;; Gets rid of the splash screen and sets deft as the initial major mode.
+(setq inhibit-splash-screen t initial-scratch-message nil
+      initial-major-mode 'deft)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-2" class="outline-4">
+<h4 id="sec-2-2-2"><span class="section-number-4">2.2.2</span> Backup files</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<p>
+Stops emacs from creating backup files which have a habit of cluttering up directories.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq make-backup-files nil)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-3" class="outline-4">
+<h4 id="sec-2-2-3"><span class="section-number-4">2.2.3</span> Yes-and-no</h4>
+<div class="outline-text-4" id="text-2-2-3">
+<p>
+Allow single character responses to yes/no questions.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(defalias 'yes-or-no-p 'y-or-n-p)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-4" class="outline-4">
+<h4 id="sec-2-2-4"><span class="section-number-4">2.2.4</span> Keybindings</h4>
+<div class="outline-text-4" id="text-2-2-4">
+<p>
+Miscellaneous keybindings.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(define-key global-map "\C-cl" 'org-store-link)
+(define-key global-map "\C-ca" 'org-agenda)
+(global-set-key (kbd "&lt;f9&gt;") 'deft)
+(global-set-key [C-mouse-4] 'text-scale-increase)
+(global-set-key [C-mouse-5] 'text-scale-decrease)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-5" class="outline-4">
+<h4 id="sec-2-2-5"><span class="section-number-4">2.2.5</span> Tool bar</h4>
+<div class="outline-text-4" id="text-2-2-5">
+<p>
+Gets rid of the tool bar.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(tool-bar-mode -1)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-6" class="outline-4">
+<h4 id="sec-2-2-6"><span class="section-number-4">2.2.6</span> Display settings</h4>
+<div class="outline-text-4" id="text-2-2-6">
+<p>
+Use the <code>solarized-light</code> theme.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(load-theme 'solarized-light t)
+</pre>
+</div>
+</div>
+
+<ol class="org-ol"><li><a id="sec-2-2-6-1" name="sec-2-2-6-1"></a><span class="todo TODO">TODO</span> terminal theming<br  /></li></ol>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Org</h3>
+<div class="outline-text-3" id="text-2-3">
+</div><div id="outline-container-sec-2-3-1" class="outline-4">
+<h4 id="sec-2-3-1"><span class="section-number-4">2.3.1</span> Settings</h4>
+<div class="outline-text-4" id="text-2-3-1">
+<p>
+Put a timestamp on completed tasks. Highlight the <code>INPROGRESS</code> keyword.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq org-log-done t
+      org-todo-keywords '((sequence "TODO" "INPROGRESS" "DONE"))
+      org-todo-keyword-faces '(("INPROGRESS" . (:foreground "blue" :weight bold))))
+</pre>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Writing</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+I've added some utilities for writing prose in emacs.
+</p>
+</div>
+
+<div id="outline-container-sec-2-4-1" class="outline-4">
+<h4 id="sec-2-4-1"><span class="section-number-4">2.4.1</span> Flyspell</h4>
+<div class="outline-text-4" id="text-2-4-1">
+<p>
+Enable flyspell spellchecking in text-mode (and derived modes).
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-hook 'text-mode-hook 'flyspell-mode)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-4-2" class="outline-4">
+<h4 id="sec-2-4-2"><span class="section-number-4">2.4.2</span> Olivetti</h4>
+<div class="outline-text-4" id="text-2-4-2">
+<p>
+Enable olivetti in text-mode (and derived modes) to provide margins.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-hook 'text-mode-hook 'olivetti-mode)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-4-3" class="outline-4">
+<h4 id="sec-2-4-3"><span class="section-number-4">2.4.3</span> <span class="todo TODO">TODO</span> <code>writeroom-mode</code></h4>
+<div class="outline-text-4" id="text-2-4-3">
+<p>
+Check out writeroom mode as an alternative to <code>olivetti-mode</code>.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> Deft</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+<a href="http://jblevins.org/projects/deft/">Deft</a> is one of the modes I use most frequently. It allows me to quickly create, manage, and sort through notes. Complemented with <code>org-mode</code>, it's the perfect tool for daily note-taking.
+</p>
+
+<p>
+This sets org-mode as the default mode for deft.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq deft-extension "org")
+(setq deft-text-mode 'org-mode)
+
+(setq deft-use-filter-string-for-filename "deft")
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> LaTeX</h3>
+<div class="outline-text-3" id="text-2-6">
+</div><div id="outline-container-sec-2-6-1" class="outline-4">
+<h4 id="sec-2-6-1"><span class="section-number-4">2.6.1</span> Referencing</h4>
+<div class="outline-text-4" id="text-2-6-1">
+<p>
+Enable reftex in latex- and LaTeX-modes.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(require 'reftex)
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)
+(add-hook 'latex-mode-hook 'turn-on-reftex)
+</pre>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> Markdown</h3>
+<div class="outline-text-3" id="text-2-7">
+</div><div id="outline-container-sec-2-7-1" class="outline-4">
+<h4 id="sec-2-7-1"><span class="section-number-4">2.7.1</span> Settings</h4>
+<div class="outline-text-4" id="text-2-7-1">
+<p>
+Automatically load markdown-mode for .md files
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-to-list 'auto-mode-alist '("\\.md$"
+  . markdown-mode)) (add-to-list 'auto-mode-alist '("\\.mdown$"
+						    . markdown-mode))
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-7-2" class="outline-4">
+<h4 id="sec-2-7-2"><span class="section-number-4">2.7.2</span> Pandoc</h4>
+<div class="outline-text-4" id="text-2-7-2">
+<p>
+Loads <code>pandoc-mode</code> when in <code>markdown-mode</code> automatically, and use <code>pandoc</code> as default compiler in <code>markdown-mode</code>.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(add-hook 'markdown-mode-hook 'pandoc-mode)
+(setq markdown-command "pandoc --smart - markdown -t html")
+</pre>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-8" class="outline-3">
+<h3 id="sec-2-8"><span class="section-number-3">2.8</span> Utilities</h3>
+<div class="outline-text-3" id="text-2-8">
+</div><div id="outline-container-sec-2-8-1" class="outline-4">
+<h4 id="sec-2-8-1"><span class="section-number-4">2.8.1</span> Smex</h4>
+<div class="outline-text-4" id="text-2-8-1">
+<p>
+Enables history and searching on top of <code>M-x</code> using <code>smex</code>.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq smex-save-file (expand-file-name ".smex-items" user-emacs-directory))
+(smex-initialize)
+(global-set-key (kbd "M-x") 'smex)
+(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Configuration (system specific)</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> Directories</h3>
+<div class="outline-text-3" id="text-3-1">
+</div><div id="outline-container-sec-3-1-1" class="outline-4">
+<h4 id="sec-3-1-1"><span class="section-number-4">3.1.1</span> Deft</h4>
+<div class="outline-text-4" id="text-3-1-1">
+<p>
+Determines where <code>deft</code> notes get saved.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq deft-directory "C:/Users/patri/Dropbox/deft")
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-3-1-2" class="outline-4">
+<h4 id="sec-3-1-2"><span class="section-number-4">3.1.2</span> Pandoc</h4>
+<div class="outline-text-4" id="text-3-1-2">
+<p>
+Since I installed <code>pandoc</code> via <code>cabal</code>, I need to explicit declare where to find the haskell script.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-emacs-lisp">(setq pandoc-binary "~/.cabal/bin/pandoc")
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Patrick Elliott</p>
+<p class="date">Created: 2015-09-26 Sat 16:26</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
