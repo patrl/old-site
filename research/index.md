@@ -8,6 +8,8 @@ This page is still under construction; sorry about the missing links! In the mea
 
 Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
+Elliott, Patrick D. 2015. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV</a>, York, January 2015.
+
 ###Papers
 
 Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *even* vs. attitude *even*. In: *Proceedings of SALT 25*.
