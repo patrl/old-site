@@ -24,6 +24,8 @@ Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis w
 
 ###Snippets
 
+<a href= "{{ site.url }}/assets/snippet-superiority.pdf" download="snippet-superiority.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. Under review. Do superiority-violating multiple singular <i>which</i>-questions have pair-list readings? Ms., UCL and ZAS.
+
 <a href= "{{ site.url }}/assets/weakisland-snippet.pdf" download="weakisland-snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. Under review. Weak island effects and obviation in infinitival complements to adjectives. Ms., UCL. 
 
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
