@@ -18,7 +18,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 <a href="{{ site.url }}/assets/wccfl-draft.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Thoms, Gary. To appear. 'QR out of Control'. In: *Proceedings of WCCFL 33*.
 
-Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis without parallel binding: Towards a QUD approach.' In: *Proceedings of SALT 24*.
+<a href="{{ site.url }}/assets/saltpaper.pdf" download="saltpaper.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. 'VP ellipsis without parallel binding: Towards a QUD approach.' In: *Proceedings of SALT 24*.
 
 <a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
 
