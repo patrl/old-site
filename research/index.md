@@ -10,6 +10,8 @@ Elliott, Patrick D. 2015. Nested *Wh*-Questions and the Locality of Scope Taking
 
 ###Papers
 
+Elliott, Patrick D. and Sudo, Yasu. In preparation. E-type readings of quantifiers under ellipsis: consequences for the identity condition. In: *Proceedings of Sinn und Bedeutung 20*.
+
 Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *even* vs. attitude *even*. In: *Proceedings of SALT 25*.
 
 <a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. Ms.
