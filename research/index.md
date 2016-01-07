@@ -6,6 +6,8 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ###Papers
 
+Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of scope taking. In: *Proceedings of ConSOLE XXIV*.
+
 Elliott, Patrick D. and Sudo, Yasu. In preparation. E-type readings of quantifiers under ellipsis: consequences for the identity condition. In: *Proceedings of Sinn und Bedeutung 20*.
 
 Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *even* vs. attitude *even*. In: *Proceedings of SALT 25*.
