@@ -4,10 +4,6 @@ title: Research
 ---
 This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
-###Upcoming
-
-Elliott, Patrick D. 2015. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV*</a>, York, January 2015.
-
 ###Papers
 
 Elliott, Patrick D. and Sudo, Yasu. In preparation. E-type readings of quantifiers under ellipsis: consequences for the identity condition. In: *Proceedings of Sinn und Bedeutung 20*.
@@ -33,6 +29,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ###Presentations
+
+Elliott, Patrick D. 2015. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV*</a>, York, January 2015.
 
 Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
