@@ -4,6 +4,10 @@ title: Research
 ---
 This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
+###Upcoming presentations
+
+Elliott, Patrick D. 2016b. Nested which-phrases: consequences for the syntax of wh-scope. *Incontro di Grammatica Generativa 42*, University of Salento, February 2016.
+
 ###Papers
 
 Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of scope taking. In: *Proceedings of ConSOLE XXIV*.
@@ -32,7 +36,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ###Presentations
 
-Elliott, Patrick D. 2015. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV*</a>, York, January 2015.
+Elliott, Patrick D. 2016a. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV*</a>, York, January 2016.
 
 Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
