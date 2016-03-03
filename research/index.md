@@ -95,3 +95,7 @@ Elliott, Patrick D. 2013. 'Clausal ellipsis and identity'. MSc dissertation, Uni
 Elliott, Patrick D. 2012. 'The distribution and interpretation of the German simplex anaphor.' BA Long Essay, University College London. Email me for a copy. (Supervised by Dr. Hans van de Koot)
 
 Elliott, Patrick D. 2011. 'Modelling implicature.' Year abroad project, Eberhard Karls Universität Tübingen. Email me for a copy. (Supervised by Dr. Roland Mühlenbernd)
+
+###Miscellaneous handouts
+
+<a href="{{ site.url }}/assets/pair-list-handout.pdf" download="pair-list-handout.pdf"><i class="fa fa-file-pdf-o"></i></a> 'Uniqueness, answerhood, and pluralities of questions'. Handout from the UCL Semantics Research Seminar, 2016.
