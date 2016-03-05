@@ -40,9 +40,9 @@ Elliott, Patrick D. 2016b. Nested which-phrases: consequences for the syntax of 
 
 Elliott, Patrick D. 2016a. Nested *Wh*-Questions and the Locality of Scope Taking. <a href="https://sites.google.com/a/york.ac.uk/consolexxiv/home">*ConSOLE XXIV*</a>, York, January 2016.
 
-Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
+<a href="{{ site.url }}/assets/nels46-slides.pdf" download="nels46-slides.pdf"><i class="fa fa-file-pdf-o"></i></af> Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings of conjoined singular *which*-phrases. <a href="http://linguistics.concordia.ca/nels46/">*NELS 46*</a>, Concordia University, October 2015
 
-<a href="{{ site.url }}/assets/sub-poster.pdf" download="sub-poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
+<a href="{{ site.url }}/assets/sub-poster.pdf" download="sub-poster.pdf"><i class="fa fa-file-pdf-o"></i></af> Elliott, Patrick D. and Sudo, Yasu. 2015. E-type readings of quantifiers under ellipsis: consequences for the identity condition. Poster at <a href="https://sites.google.com/site/sinnundbedeutung20/home">*Sinn und Bedeutung 20*</a>, Tuebingen, September 2015.
 
 <a href="{{ site.url }}/assets/workshop-slides.pdf" download="workshop-slides.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2015. Nested *wh-*questions and the locality of scope-taking. <a href="{{ site.url }}/workshop/">*Questions at the Syntax-Semantics Interface*</a>, University College London, September 2015.
 
