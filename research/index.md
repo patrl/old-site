@@ -48,7 +48,7 @@ Elliott, Patrick D., Nicolae, Andreea and Sudo, Yasu. 2015. Pair-list readings o
 
 Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a common semantic core. <a href="http://www.eggschool.org/open-podium/">EGG summer school open podium</a>, Brno, August 2015.
 
-Elliott, Patrick D. 2015b. On the ambiguity of multiple questions. UCL PhD day, June 2015.
+<a href="{{ site.url }}/assets/phd-day-talk.pdf" download="phd-day-talk.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2015b. On the ambiguity of multiple questions. UCL PhD day, June 2015.
 
 <a href="{{ site.url }}/assets/SALTPoster-even.pdf" download="SALTPoster-even.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. 2015. Discourse even vs. attitude even. Poster at *SALT 25*, Stanford University, May 2015.
 
