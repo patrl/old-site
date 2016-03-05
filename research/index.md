@@ -6,7 +6,7 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ###Upcoming presentations
 
-Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>
+Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
 ###Papers
 
@@ -72,7 +72,7 @@ Elliott, Patrick D. 2014a. 'Ellipsis identity and structural economy.' *9th Newc
 
 Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasutada. 2014a. 'VP ellipsis without parallel binding: Towards a QUD approach.' Talk given at University College London Linguistics department.
 
-Elliott, Patrick D. 2013c. 'Towards a dual account of ellipsis identity.' *Manchester Forum in Linguistics*, University of Manchester, November 2013.
+<a href="{{ site.url }}/assets/mfil-solo.pdf" download="mfil-solo.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2013c. 'Towards a dual account of ellipsis identity.' *Manchester Forum in Linguistics*, University of Manchester, November 2013.
 
 Barros, Matt, Elliott, Patrick D., and Thoms, Gary. 2013c. 'Island evasion explains variability in island repair.' *Manchester Forum in Linguistics*, University of Manchester, November 2013.
 
