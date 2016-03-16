@@ -8,7 +8,15 @@ This page is still under construction; sorry about the missing links! In the mea
 
 Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
-Elliott, Patrick D. 2016d. TBA. University College London PhD Day, May 24 2016.
+Elliott, Patrick D. 2016d. TBA. London Semantics Day, May 10 2016.
+
+Elliott, Patrick D. 2016e. TBA. University College London PhD Day, May 24 2016.
+
+Elliott, Patrick D. 2016f. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
+
+Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster)
+
+
 
 ###Papers
 
