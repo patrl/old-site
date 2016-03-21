@@ -38,6 +38,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ###Snippets
 
+Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. In prep. Predicates of relevance and theories of question embedding.
+
 <a href= "{{ site.url }}/assets/snippet-superiority.pdf" download="snippet-superiority.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. Under review. Do superiority-violating multiple singular <i>which</i>-questions have pair-list readings? Ms., UCL and ZAS.
 
 <a href= "{{ site.url }}/assets/weakisland-snippet.pdf" download="weakisland-snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. Under review. Weak island effects and obviation in infinitival complements to adjectives. Ms., UCL. 
