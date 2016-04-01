@@ -38,7 +38,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ###Snippets
 
-<a href= "{{ site.url }}/assets/Predicatesofrelevance.pdf" download="snippet-predicatesofrelevance.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Submitted. Predicates of relevance and theories of question embedding. Ms., UCL and Keio University/Institut Jean-Nicod/JSPS
+Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Submitted. Predicates of relevance and theories of question embedding. Ms., UCL and Keio University/Institut Jean-Nicod/JSPS
 
 <a href= "{{ site.url }}/assets/snippet-superiority.pdf" download="snippet-superiority.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. Under review. Do superiority-violating multiple singular <i>which</i>-questions have pair-list readings? Ms., UCL and ZAS.
 
