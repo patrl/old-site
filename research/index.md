@@ -4,7 +4,7 @@ title: Research
 ---
 This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
-###Upcoming presentations
+### Upcoming presentations
 
 Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
@@ -18,7 +18,7 @@ Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the S
 
 
 
-###Papers
+### Papers
 
 Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of scope taking. In: *Proceedings of ConSOLE XXIV*.
 
@@ -36,7 +36,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 <a href="{{ site.url }}/assets/CLSproc.pdf" download="CLSproc.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. To appear. 'More variation in island repair: The clausal/non-clausal distinction.' In: *Proceedings of CLS 49*. (<a href="http://ling.auf.net/lingbuzz/001929">LingBuzz</a>)
 
-###Snippets
+### Snippets
 
 Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Submitted. Predicates of relevance and theories of question embedding. Ms., UCL and Keio University/Institut Jean-Nicod/JSPS
 
@@ -46,7 +46,7 @@ Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Submitt
 
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
-###Presentations
+### Presentations
 
 Elliott, Patrick D. 2016b. Nested which-phrases: consequences for the syntax of wh-scope. *Incontro di Grammatica Generativa 42*, University of Salento, February 2016.
 
@@ -98,7 +98,7 @@ Barros, Matt, Elliott, Patrick D., and Thoms, Gary. 2013a. 'More variation in is
 
 Elliott, Patrick D. 2012. 'Illusory island repair in sluicing: Evidence from non-predicative adjectives.' Invited talk for the *Syntax and Semantics Reading Group*, University of Edinburgh, October 10th 2012.
 
-###Unpublished work
+### Unpublished work
 
 Elliott, Patrick D. In prep. Sorting out multiple questions. Ms. Email me for a draft.
 
@@ -108,6 +108,6 @@ Elliott, Patrick D. 2012. 'The distribution and interpretation of the German sim
 
 Elliott, Patrick D. 2011. 'Modelling implicature.' Year abroad project, Eberhard Karls Universität Tübingen. Email me for a copy. (Supervised by Dr. Roland Mühlenbernd)
 
-###Miscellaneous handouts
+### Miscellaneous handouts
 
 <a href="{{ site.url }}/assets/pair-list-handout.pdf" download="pair-list-handout.pdf"><i class="fa fa-file-pdf-o"></i></a> 'Uniqueness, answerhood, and pluralities of questions'. Handout from the UCL Semantics Research Seminar, 2016.
