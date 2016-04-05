@@ -8,7 +8,7 @@ This page is still under construction; sorry about the missing links! In the mea
 
 Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
-Elliott, Patrick D. 2016d. TBA. London Semantics Day, May 10 2016.
+Elliott, Patrick D. 2016d. /Explain/ and the semantics of embedding. London Semantics Day, May 10 2016.
 
 Elliott, Patrick D. 2016e. TBA. University College London PhD Day, May 24 2016.
 
