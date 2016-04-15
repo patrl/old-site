@@ -156,16 +156,16 @@ September -- December 2015
     
 January -- March 2015
 
-Introduction to Logic and Meaning B
+:   Introduction to Logic and Meaning B
 
 September -- December 2014
 
-Advanced Core Training in Linguistics: Syntax Strand  
-Guest lecturer and teaching assistant  
+:   Advanced Core Training in Linguistics: Syntax Strand  
+    Guest lecturer and teaching assistant  
 
 January -- March 2014
 
-Introduction to Logic and Meaning B
+:   Introduction to Logic and Meaning B
 
 September -- December 2013
 
