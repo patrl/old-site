@@ -14,6 +14,8 @@ Elliott, Patrick D. 2016e. TBA. University College London PhD Day, May 24 2016.
 
 Elliott, Patrick D. 2016f. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
+Elliott, Patrick D. 2016g. Propositional content of events and individuals: explaining *explain*. NASSLLI 2016 student poster session, July 2016.
+
 Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster) <a href="{{ site.url }}/assets/ElliottMurphyOlinco.pdf" download="ElliottMurphyOlinco.pdf">Abstract</a>.
 
 
