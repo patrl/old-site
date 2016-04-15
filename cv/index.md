@@ -150,7 +150,7 @@ January 2016 -- Present
     
 September -- December 2015
 
-    PLIN2202/PLING221: Intermediate Generative Grammar A  
+:   PLIN2202/PLING221: Intermediate Generative Grammar A  
     Teaching assistant for Sam Steddy  
     University College London
     
