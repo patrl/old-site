@@ -22,6 +22,8 @@ Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the S
 
 ### Papers
 
+Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. In prep. List readings of conjoined singular *which*-phrases. In: *Proceedings of NELS 46*.
+
 <a href= "{{ site.url }}/assets/PoRs.pdf" download="PoRs.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Submitted. Predicates of relevance and theories of question embedding. Ms., UCL and Keio University/Institut Jean-Nicod/JSPS
 
 Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of scope taking. In: *Proceedings of ConSOLE XXIV*.
