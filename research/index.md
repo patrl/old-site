@@ -8,15 +8,17 @@ This page is still under construction; sorry about the missing links! In the mea
 
 Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
-Elliott, Patrick D. 2016d. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
+Elliott, Patrick D. 2016d. TBA. *Syntax Round Table*, UCLA, April 2016.
 
-Elliott, Patrick D. 2016e. TBA. University College London PhD Day, May 24 2016.
+Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
-Elliott, Patrick D. 2016f. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
+Elliott, Patrick D. 2016f. TBA. University College London PhD Day, May 24 2016.
+
+Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
 Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster) <a href="{{ site.url }}/assets/ElliottMurphyOlinco.pdf" download="ElliottMurphyOlinco.pdf">Abstract</a>.
 
-Elliott, Patrick D. 2016g. Propositional content of events and individuals: explaining *explain*. NASSLLI 2016 student poster session, July 2016.
+Elliott, Patrick D. 2016h. Propositional content of events and individuals: explaining *explain*. NASSLLI 2016 student poster session, July 2016.
 
 ### Papers
 
