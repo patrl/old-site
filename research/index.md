@@ -6,8 +6,6 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ### Upcoming presentations
 
-Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
-
 Elliott, Patrick D. 2016d. TBA. *Syntax Round Table*, UCLA, April 2016.
 
 Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
@@ -51,6 +49,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
 Elliott, Patrick D. 2016b. Nested which-phrases: consequences for the syntax of wh-scope. *Incontro di Grammatica Generativa 42*, University of Salento, February 2016.
 
