@@ -6,7 +6,7 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ### Upcoming presentations
 
-Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Syntax Round Table*, UCLA, April 2016.
+Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Roundtable*, UCLA, April 2016.
 
 Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
