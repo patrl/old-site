@@ -50,7 +50,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ### Presentations
 
-Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
+<a href="{{ site.url }}/assets/cls52.pdf" download="cls52.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
 Elliott, Patrick D. 2016b. Nested which-phrases: consequences for the syntax of wh-scope. *Incontro di Grammatica Generativa 42*, University of Salento, February 2016.
 
