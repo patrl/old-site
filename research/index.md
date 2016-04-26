@@ -6,8 +6,6 @@ This page is still under construction; sorry about the missing links! In the mea
 
 ### Upcoming presentations
 
-Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Roundtable*, UCLA, April 2016.
-
 Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
 Elliott, Patrick D. 2016f. *That*-clauses as event modifiers. University College London PhD Day, May 24 2016.
@@ -49,6 +47,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+<a href="{{ site.url }}/assets/ucla-roundtable.pdf" download="ucla-roundtable.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Roundtable*, UCLA, April 2016.
 
 <a href="{{ site.url }}/assets/cls52.pdf" download="cls52.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016c. Explaining DPs vs. CPs without syntax. *52<sup>nd</sup> annual meeting of the Chicago Linguistics Society*, Chicago, April 2016. <a href="{{ site.url }}/assets/cls-abstract.pdf" download="cls-abstract.pdf">Abstract</a>.
 
