@@ -24,7 +24,7 @@ Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. In prep. List reading
 
 Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of scope taking. In: *Proceedings of ConSOLE XXIV*.
 
-<a href= "{{ site.url }}/assets/SuB20_Elliott\&Sudo_v2-revised.pdf" download="SuB20_Elliott\&Sudo_v2-revised.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Sudo, Yasu. To appear. E-type readings of quantifiers under ellipsis: consequences for the identity condition. In: *Proceedings of Sinn und Bedeutung 20*.
+<a href= "{{ site.url }}/assets/SuB20.pdf" download="SuB20.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Sudo, Yasu. To appear. E-type readings of quantifiers under ellipsis: consequences for the identity condition. In: *Proceedings of Sinn und Bedeutung 20*.
 
 Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *even* vs. attitude *even*. In: *Proceedings of SALT 25*.
 
