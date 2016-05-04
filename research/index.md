@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-This page is still under construction; sorry about the missing links! In the meantime, You can find most of my handouts on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, or my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
+You can find handouts from older talks on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, and on my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I'm in the process of transferring everything to this page. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
 ### Upcoming presentations
 
