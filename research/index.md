@@ -16,6 +16,10 @@ Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the S
 
 Elliott, Patrick D. 2016h. Propositional content of events and individuals: explaining *explain*. NASSLLI 2016 student poster session, July 2016.
 
+Elliott, Patrick D. and Nicolae, Andreea. 2016. Cumulative readings beyond nominals *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016. 
+
+Elliott, Patrick D. and Thoms, Gary. 2016. NPI anti-licensing in peripheral modifiers. *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016.
+
 ### Papers
 
 <a href= "{{ site.url }}/assets/nels46.pdf" download="nels46.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. Submitted. List readings of conjoined singular *which*-phrases. In: *Proceedings of NELS 46*.
