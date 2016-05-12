@@ -6,8 +6,6 @@ You can find handouts from older talks on my <a href="http://ucl.academia.edu/pa
 
 ### Upcoming presentations
 
-Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
-
 Elliott, Patrick D. 2016f. *That*-clauses as event modifiers. University College London PhD Day, May 24 2016.
 
 Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
@@ -51,6 +49,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
 <a href="{{ site.url }}/assets/ucla_roundtable.pdf" download="ucla_roundtable.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Roundtable*, UCLA, April 25<sup>th</sup> 2016.
 
