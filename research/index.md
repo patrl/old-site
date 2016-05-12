@@ -50,7 +50,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ### Presentations
 
-Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
+<a href="{{ site.url }}/assets/lsd2016.pdf" download="lsd2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
 <a href="{{ site.url }}/assets/ucla_roundtable.pdf" download="ucla_roundtable.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016d. Severing everything: substitution failures and their consequences for the theory of argument structure. *Roundtable*, UCLA, April 25<sup>th</sup> 2016.
 
