@@ -32,8 +32,10 @@ Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *
 
 <a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. Ms.
 
+<!---
 Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination of DPs and CPs.' Ms.
 
+-->
 <a href="{{ site.url }}/assets/wccfl-draft.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Thoms, Gary. To appear. 'QR out of Control'. In: *Proceedings of WCCFL 33*.
 
 <a href="{{ site.url }}/assets/saltpaper.pdf" download="saltpaper.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., Nicolae, Andreea, and Sudo, Yasu. To appear. The sticky reading: VP ellipsis without parallel binding. In: *Proceedings of SALT 24*.
