@@ -50,7 +50,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ### Presentations
 
-<a href="{{ site.url }}/assets/phdDay2016.pdf" download="phdDay2016.pdf"><i class="fa fa-file-pdf-o"></i></a>Elliott, Patrick D. 2016f. *That*-clauses as event modifiers. University College London PhD Day, May 24 2016.
+<a href="{{ site.url }}/assets/phdDay2016.pdf" download="phdDay2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016f. *That*-clauses as event modifiers. University College London PhD Day, May 24 2016.
 
 <a href="{{ site.url }}/assets/lsd2016.pdf" download="lsd2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016e. *Explain* and the semantics of embedding. London Semantics Day, May 10 2016.
 
