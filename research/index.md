@@ -48,7 +48,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ### Presentations
 
-Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
+<a href="{{ site.url }}/assets/olinco_solo_poster.pdf" download="olinco_solo_poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
 Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster) <a href="{{ site.url }}/assets/ElliottMurphyOlinco.pdf" download="ElliottMurphyOlinco.pdf">Abstract</a>.
 
