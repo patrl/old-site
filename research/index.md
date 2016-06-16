@@ -50,7 +50,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 <a href="{{ site.url }}/assets/olinco_solo_poster.pdf" download="olinco_solo_poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
-<a href="{{ site.url }}/assets/joint-brazil-talk.pdf" download="joint-brazil-talk.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster) <a href="{{ site.url }}/assets/ElliottMurphyOlinco.pdf" download="ElliottMurphyOlinco.pdf">Abstract</a>.
+Elliott, Patrick D. and Murphy, Andrew. 2016. Non-intersective readings in the Slavic Noun Phrase: diagnosing two varieties of left branch extraction. Olomouc Linguistics Colloqium, June 2016. (poster) <a href="{{ site.url }}/assets/ElliottMurphyOlinco.pdf" download="ElliottMurphyOlinco.pdf">Abstract</a>.
 
 <a href="{{ site.url }}/assets/phdDay2016.pdf" download="phdDay2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016f. *That*-clauses as event modifiers. University College London PhD Day, May 24 2016.
 
@@ -78,7 +78,7 @@ Beshears, Anne and Elliott, Patrick D. 2015. Questions and correlatives: a commo
 
 <a href="{{ site.url }}/assets/SortingOutMultipleQuestions.pdf" download="SortingOutMultipleQuestions.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2015a. Sorting Out Multiple Questions. *London Semantics Day*, QMUL, May 2015.
 
-Elliott, Patrick D. and Murphy, Andrew. 2015. 'Optimizing the Ellipsis Site.' *Grasping Ellipsis: its syntax, semantics, acquisition and processing*, University of Campinas, Brazil, May 2015.
+<a href="{{ site.url }}/assets/joint-brazil-talk.pdf" download="joint-brazil-talk.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. and Murphy, Andrew. 2015. 'Optimizing the Ellipsis Site.' *Grasping Ellipsis: its syntax, semantics, acquisition and processing*, University of Campinas, Brazil, May 2015.
 
 Elliott, Patrick D. and Thoms, Gary. 2015. 'Forming Chains with Covert Copies: Deriving the Locality Constraints on QR' (poster) *GLOW 38*, Paris, April 2015.
 
