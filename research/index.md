@@ -2,11 +2,9 @@
 layout: page
 title: Research
 ---
-You can find handouts from older talks on my <a href="http://ucl.academia.edu/patrickdelliott">academia.edu page</a>, and on my <a href="https://sites.google.com/site/patrickdelliott/home">old site</a>. I'm in the process of transferring everything to this page. I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
+I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.org/pkg/biblatex?lang=en">biblatex</a>), which can be found <a href="https://github.com/patrl/bibliography/blob/master/elliott_mywork.bib">here</a>.
 
 ### Upcoming presentations
-
-Elliott, Patrick D. 2016h. Propositional content of events and individuals: explaining *explain*. NASSLLI 2016 student poster session, July 2016.
 
 Elliott, Patrick D. and Nicolae, Andreea. 2016. Cumulative readings beyond nominals *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016. 
 
@@ -26,7 +24,7 @@ Elliott, Patrick D. In preparation. Nested *wh*-questions and the locality of sc
 
 Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *even* vs. attitude *even*. In: *Proceedings of SALT 25*.
 
-<a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. Ms.
+<a href="{{ site.url }}/assets/islands_draft.pdf" download="islands_draft.pdf"><i class="fa fa-file-pdf-o"></i></a> Barros, Matt, Elliott, Patrick D., and Thoms, Gary. Under revision. 'There is no island repair'. Ms. (<a href="http://ling.auf.net/lingbuzz/002100">LingBuzz</a>)
 
 <!---
 Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination of DPs and CPs.' Ms.
@@ -47,6 +45,8 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+Elliott, Patrick D. 2016h. Propositional content of events and individuals. NASSLLI 2016 Student Session, Rutgers University, July 2016. (poster)
 
 <a href="{{ site.url }}/assets/olinco_solo_poster.pdf" download="olinco_solo_poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
