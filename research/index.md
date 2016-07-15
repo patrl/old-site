@@ -46,7 +46,7 @@ Burke, Luke and Elliott, Patrick D. In preparation. 'Remarks on the Coordination
 
 ### Presentations
 
-Elliott, Patrick D. 2016h. Propositional content of events and individuals. NASSLLI 2016 Student Session, Rutgers University, July 2016. (poster)
+<a href="{{ site.url }}/assets/nasslli2016.pdf" download="nasslli2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016h. Propositional content of events and individuals. NASSLLI 2016 Student Session, Rutgers University, July 2016. (poster)
 
 <a href="{{ site.url }}/assets/olinco_solo_poster.pdf" download="olinco_solo_poster.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016g. Selection without syntax: explaining the difference between clauses and nominal phrases. Olomouc Linguistics Colloquium, June 2016. (poster)
 
