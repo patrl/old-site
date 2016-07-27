@@ -14,6 +14,8 @@ Elliott, Patrick D. 2016i. Embedded declaratives as modifiers. *Sinn und Bedeutu
 
 ### Papers
 
+Elliott, Patrick D. Submitted. Explaining DPs vs. CPs without syntax. In: *Proceedings of CLS 52*.
+
 <a href= "{{ site.url }}/assets/nels46.pdf" download="nels46.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D., and Sudo, Yasutada. Submitted. List readings of conjoined singular *which*-phrases. In: *Proceedings of NELS 46*.
 
 <a href= "{{ site.url }}/assets/PoRs.pdf" download="PoRs.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasu, and Uegaki, Wataru. Under revision. Predicates of relevance and theories of question embedding. Ms., UCL and Keio University/Institut Jean-Nicod/JSPS
