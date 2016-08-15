@@ -12,6 +12,8 @@ Elliott, Patrick D. and Thoms, Gary. 2016. NPI anti-licensing in peripheral modi
 
 Elliott, Patrick D. 2016i. Embedded declaratives as modifiers. *Sinn und Bedeutung 21*, University of Edinburgh, September 2016.
 
+Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasutada, and Uegaki, Wataru. 2016. Predicates of relevance and theories of question embedding. NELS 47, UMass Amherst.
+
 ### Papers
 
 Elliott, Patrick D. Submitted. Explaining DPs vs. CPs without syntax. In: *Proceedings of CLS 52*. <a href= "{{ site.url }}/assets/cls52-paper_draft.pdf" download="cls52-paper_draft.pdf">(draft).</a>
