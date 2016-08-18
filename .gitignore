@@ -7,6 +7,3 @@ _config.gh-pages.yml
 
 # Ignore files created by jekyll.
 .jekyll*
-
-# Ignore CNAME so that people don't get redirected to an expired mirror.
-CNAME
