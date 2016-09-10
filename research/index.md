@@ -6,10 +6,6 @@ I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.
 
 ### Upcoming presentations
 
-Elliott, Patrick D. and Nicolae, Andreea. 2016. Cumulative readings beyond nominals *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016. 
-
-Elliott, Patrick D. and Thoms, Gary. 2016. NPI anti-licensing in peripheral modifiers. *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016.
-
 Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasutada, and Uegaki, Wataru. 2016. Predicates of relevance and theories of question embedding. NELS 47, UMass Amherst.
 
 ### Papers
@@ -43,6 +39,10 @@ Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+Elliott, Patrick D. and Thoms, Gary. 2016. NPI anti-licensing in peripheral modifiers. *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016.
+
+Elliott, Patrick D. and Nicolae, Andreea. 2016. Cumulative readings beyond nominals *2016 Annual Meeting of the Linguistics Association of Great Britain*, University of York, September 2016. 
 
 <a href="{{ site.url }}/assets/SuB2016.pdf" download="SuB2016.pdf"><i class="fa fa-file-pdf-o"></i></a> Elliott, Patrick D. 2016i. Embedded declaratives as modifiers. *Sinn und Bedeutung 21*, University of Edinburgh, September 2016.
 
