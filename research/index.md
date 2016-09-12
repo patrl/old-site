@@ -6,7 +6,9 @@ I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.
 
 ### Upcoming presentations
 
-Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasutada, and Uegaki, Wataru. 2016. Predicates of relevance and theories of question embedding. NELS 47, UMass Amherst.
+Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasutada, and Uegaki, Wataru. Predicates of relevance and theories of question embedding. NELS 47, UMass Amherst. October 2016.
+
+Elliott, Patrick D. and Nicolae, Andreea. Cumulative readings beyond nominals. LSA 2017 Annual Meeting, Austin, Texas. January 2017. (poster)
 
 ### Papers
 
