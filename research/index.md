@@ -6,7 +6,7 @@ I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.
 
 ### Upcoming presentations
 
-Elliott, Patrick D. Ellipsis identity redux: a (re)evaluation of the empirical landscape. IGRA-Colloquium, Universität Leipzig. November 4 2016.
+Elliott, Patrick D. TBA. IGRA-Colloquium, Universität Leipzig. November 4 2016.
 
 Elliott, Patrick D. and Nicolae, Andreea. Cumulative readings beyond nominals. LSA 2017 Annual Meeting, Austin, Texas. January 2017. (poster)
 
