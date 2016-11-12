@@ -6,8 +6,6 @@ I maintain a `.bib` database of my work (for use with <a href="https://www.ctan.
 
 ### Upcoming presentations
 
-Elliott, Patrick D. Ellipsis identity and the alternative tier. Theory of the Grammar Colloquium, Universität Leipzig. November 11 2016.
-
 Elliott, Patrick D. and Nicolae, Andreea. Cumulative readings beyond nominals. LSA 2017 Annual Meeting, Austin, Texas. January 2017. (poster)
 
 ### Papers
@@ -41,6 +39,8 @@ Elliott, Patrick D., McCready, Eric, and Sudo, Yasu. In preparation. Discourse *
 <a href="http://www.ledonline.it/snippets/allegati/snippets30001.pdf" download="snippet.pdf"><i class="fa fa-file-pdf-o"></i></a> Nicolae, Andreea, Elliott, Patrick D. and Sudo, Yasu. 2015. Pair-List Readings of Conjoined Singular *Which*-Phrases. *Snippets*, 30:5--6. doi: 10.7358/snip-2015-030-nico
 
 ### Presentations
+
+Elliott, Patrick D. Ellipsis identity and the alternative tier. Theory of the Grammar Colloquium, Universität Leipzig. November 11 2016.
 
 Elliott, Patrick D., Klinedinst, Nathan, Sudo, Yasutada, and Uegaki, Wataru. Predicates of relevance and theories of question embedding. NELS 47, UMass Amherst. October 2016.
 
